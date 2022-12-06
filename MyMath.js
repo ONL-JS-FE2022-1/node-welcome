@@ -6,3 +6,5 @@ class MyMath {
 }
 
 exports.MyMath = MyMath;
+
+console.log(module);
